@@ -1,5 +1,5 @@
 # functional_gene_biogeography
-This repository contains R codes used to generate results and figures for the unpublished manuscript "Biogeography and functional coupling of iron, sulfur and nitrogen cycling genes in acid mine drainage sediment microbiomes".
+This repository contains R codes used to generate figures for the unpublished manuscript "Biogeography and functional coupling of iron, sulfur and nitrogen cycling genes in acid mine drainage sediment microbiomes".
 
 1_catalog  
 1_catalog_a.R: R script used to generate the map of sampling sites.  
